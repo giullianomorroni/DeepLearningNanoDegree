@@ -115,3 +115,4 @@ bottleneck_features/DogVGG16Data.npz
 *.npz
 *.zip
 *.DS_Store
+data/
